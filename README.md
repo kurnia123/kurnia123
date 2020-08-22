@@ -18,6 +18,9 @@
   <img align="left" alt="Saad's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=kurnia123&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kurnia123's GitHub Stats">
+
 <!--
 **kurnia123/kurnia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
