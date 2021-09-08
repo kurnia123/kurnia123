@@ -20,7 +20,15 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kurnia123&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kurnia123's GitHub Stats">
+## 👋 Hi There!
+
+My name is Rizky Kurnia Firmansyah, and i'm currently studying at Amikom University Yogyakarta. I'm interested in Backend especially Go and Python, but React JS looks good too👀 .
+Have a Good Day!
+
+## 🌱 Github Values
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurnia123&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurnia123&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kurnia123/kurnia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
