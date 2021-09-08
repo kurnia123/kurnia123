@@ -20,7 +20,7 @@
 
 <br>
 
-## 👋 Hi There!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi There!
 
 My name is Rizky Kurnia Firmansyah, and i'm currently studying at Amikom University Yogyakarta. I'm interested in Backend especially Go and Python, but React JS looks good too👀 .
 Have a Good Day!
