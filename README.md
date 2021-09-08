@@ -10,10 +10,12 @@ Have a Good Day!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurnia123&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurnia123&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> <br>
-<a href="https://www.linkedin.com/in/rizky-kurnia-firmansyah-b64968189/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
-<a href="mailto:rizky.firmansyah@students.amikom.ac.id"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
-<a href="https://twitter.com/RizkyKurniaFir1"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"> </a>
+## 🔍 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> <br>
+<p>
+  <a href="https://www.linkedin.com/in/rizky-kurnia-firmansyah-b64968189/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rizky.firmansyah@students.amikom.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+  <a href="https://twitter.com/RizkyKurniaFir1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 <!--
 **kurnia123/kurnia123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
