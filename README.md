@@ -8,10 +8,16 @@
 My name is Rizky Kurnia Firmansyah, and i'm currently studying at Amikom University Yogyakarta. I'm interested in Backend especially Go and Python, but React JS looks good too👀 .
 Have a Good Day!
 
-## 🌱 Github Values
+## <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> Github Values
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurnia123&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurnia123&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱 I'am Currently Learning....
+<p align ="Center">
+ <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> &nbsp;&nbsp;&nbsp;&nbsp;  
+ </br>
 
 ## 🔍 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> <br>
 <p>
