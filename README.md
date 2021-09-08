@@ -3,7 +3,7 @@
 ### Hi folks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <a href="https://twitter.com/RizkyKurniaFir1">
-  <img align="left" alt="Saad Irfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img src="https://img.icons8.com/cotton/64/000000/facebook.png"/>
 </a>
 <a href="https://www.linkedin.com/in/rizky-kurnia-firmansyah-b64968189/">
   <img align="left" alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
