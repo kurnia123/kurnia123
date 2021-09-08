@@ -10,7 +10,7 @@ Have a Good Day!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurnia123&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurnia123&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
-## You can checkout my other profiles below: <br>
+## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> <br>
 <a href="https://www.linkedin.com/in/rizky-kurnia-firmansyah-b64968189/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
 <a href="mailto:rizky.firmansyah@students.amikom.ac.id"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
 <a href="https://twitter.com/RizkyKurniaFir1"> <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"> </a>
