@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kurnia123&color=blueviolet)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Rizky+Kurnia+Firmansyah;a+coder+from+%2C+Indonesia.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B+I'm+Rizky;I+From+Indonesia)](https://git.io/typing-svg)
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi There!
 
