@@ -40,6 +40,10 @@ Have a Good Day!
 
 <br/>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
 
 ## <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> Github Values
 
